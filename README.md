@@ -1,6 +1,8 @@
 # JSONPOWERDB-MicroProject
 Student Enrollment Form
 
+js  html css json-api jsonpowerdb
+
 # JsonPowerDB
 This is a microproject Student Enrollment Form created with JsonPowerDB which will will store data in STUDENT-TABLE relation of SCHOOL-DB database.
 
